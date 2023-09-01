@@ -1,5 +1,4 @@
-
-## Projeto inicial de aprendizado
+### Projeto inicial de aprendizado
 
 Este projeto é dedicado ao aprendizado e prática de novas habilidades.
 
